@@ -1,0 +1,1 @@
+Hi  i am using vi editor for creating file caled outputtxt
